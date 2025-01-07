@@ -1,4 +1,6 @@
 # desafio_dio_bancario_2
+projeto bootcamp
+
 # Sistema Bancário em Python
 
 Este projeto é um sistema bancário desenvolvido como parte do Bootcamp Engenharia de Dados com Python, realizado pela plataforma [DIO (Digital Innovation One)](https://www.dio.me/). O objetivo do projeto foi aplicar conceitos de lógica de programação, modularização, e manipulação de dados em Python para criar um sistema funcional e escalável.
